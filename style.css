@@ -1,0 +1,25 @@
+body {
+	background: #5433FF;
+	background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);
+	background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+button {
+	font-family: "楷体";
+	font-size: 70px;
+	background-color: transparent;
+	outline-color: #FFFFFF;
+	outline-style: solid;
+	outline-width: 5px;
+	color: #FFFFFF;
+	border: 10px transparent;
+	border-radius:5px 5px 5px 5px;
+}
+a {
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
